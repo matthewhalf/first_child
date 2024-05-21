@@ -1,2 +1,2 @@
 # first_child
-Tema custom per wordpress basato su tailwind e advanced custom field
+Custom for wordpress updated with custom blocks for gutenberg. Based on tailwind css
